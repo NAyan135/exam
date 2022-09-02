@@ -37,14 +37,16 @@ p{
 input{
     border-radius: 4px;
     padding: 8px;
-    margin: 7px;
+    margin: 17px;
 }
 #lr{
     width: 500px;
 }
 #sm{
     width: 231px;
+    margin: 7px;
 }
 form{
     background-color: #fff;
+
 }
